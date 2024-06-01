@@ -1,0 +1,33 @@
+{
+    
+}
+
+nav{
+    text-align: center;
+
+}
+.carousel-inner{
+    width: auto;
+    height: 750px;
+}
+
+footer{
+    background-color: black
+    
+}
+
+p{
+    text-align: center;
+    font-size: 18px;
+    color: whitesmoke;
+    
+}
+
+/*  div{
+    height: 250px;
+    background-color: brown;
+    color: azure;
+    font-size: 50px;
+    margin: 20px;
+
+}*/
